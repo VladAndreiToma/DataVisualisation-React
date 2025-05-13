@@ -5,7 +5,7 @@ export default function Home(){
         <div className="page-container">
             <VerticalMenu/>
             <div className="generic-page-container">
-                    <p style={{ fontWeight: "bold" , fontSize: '46px' }}>
+                    <p style={{ fontWeight: "bold" , fontSize: '4vw' }}>
                         Welcome to Visuals-io<br/>
                         It aims to show you the usage of Victory library to build
                         good looking startistical ui graphics with certain schema.
